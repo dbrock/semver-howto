@@ -66,8 +66,8 @@ whenever you make any other kind of substantial change.
 Then you just continue doing this for as long as you’re still
 backwards-compatible with everybody.
 
-Second major release (2.0.0)
----------------------------
+Second major release and beyond (2.0.0, 3.0.0, …)
+-------------------------------------------------
 
 The first time you make a change that is incompatible with how people
 are using the public API, you increment the major version number.
