@@ -40,7 +40,7 @@ Release candidates (1.0.0-foo)
 
 Before you bless a version as your first official release, you may
 want make a few test runs with release candidates.  You can use any
-scheme you want here, really, but 1.0.0-alpha1 or 1.0.0-rc1 would be
+scheme you want here, really, but 1.0.0-alpha.1 or 1.0.0-rc.1 would be
 typical examples of pre-release versions.
 
 First official release (1.0.0)
@@ -86,8 +86,8 @@ versions of the next major release, just by tacking it on as the
 pre-release version.
 
 
-Second major release candidates (2.0.0-rc1)
--------------------------------------------
+Second major release candidates (2.0.0-rc.1)
+--------------------------------------------
 
 Obviously, you can use the same scheme with release candidates for
 2.0.0 as you did for 1.0.0.  (Or a new one, for that matter.)
