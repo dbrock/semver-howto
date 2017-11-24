@@ -33,7 +33,7 @@ about the distinction.
 So you just continue through the 0.x.y range, incrementing y for every
 backwards-compatible change, and x for every incompatible change.
 
-(Of course, when you reach 0.9, you just go on to 0.10, 1.11, ….)
+(Of course, when you reach 0.9, you just go on to 0.10, 0.11, ….)
 
 Release candidates (1.0.0-foo)
 ------------------------------
